@@ -80,5 +80,6 @@ void checkPlayerWin(){
 void playerWin(){
   image(winImg,width/2,height/2);
   text("Press R to Return", width/2,40);
+  fill(255);
 }
 }
